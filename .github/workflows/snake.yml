@@ -9,11 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      # ✅ Step 1: Checkout repo
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # ✅ Step 2: Generate snake
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: meuorii
           outputs: dist/github-contribution-grid-snake.svg
 
+      # ✅ Step 3: Push to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
