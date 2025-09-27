@@ -31,14 +31,15 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/meuorii">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=meuorii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meuorii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=meuorii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc&cache_seconds=300" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meuorii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc&cache_seconds=1800" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meuorii&theme=tokyonight&hide_border=true&background=0D1117&ring=bb86fc&fire=9d4edd&currStreakLabel=bb86fc" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meuorii&theme=tokyonight&hide_border=true&background=0D1117&ring=bb86fc&fire=9d4edd&currStreakLabel=bb86fc&cache_seconds=300" alt="streak" />
 </p>
+
 
 ---
 
