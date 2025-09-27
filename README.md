@@ -8,15 +8,21 @@ I enjoy creating **scalable applications**, solving real-world problems with **d
 My expertise spans **frontend** and **backend**, allowing me to build seamless, intelligent, and user-focused digital experiences.  
 
 ---
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/kian-fontillas" target="blank"><i class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
-<a href="https://twitter.com/" target="blank"><i class="devicon-twitter-original" height="40" width="60"></i></a>
-</p>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=meuorii&label=Profile%20views&color=6f42c1&style=flat" alt="profile views" /> 
+</p>
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/lvejnie/?hl=en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/lveyeon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" alt="Facebook" />
+  </a>
+  <a href="mailto:fontillaskian@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
 </p>
 
 ---
@@ -44,13 +50,12 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,php" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,figma" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,githubactions" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode,windows" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" height="40"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,php" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,figma" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git,github" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="60"/>
 </p>
 
 ---
@@ -58,8 +63,4 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 ## ✨ Extra Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meuorii&theme=tokyonight" alt="summary"/>
-</p>
-
-<p align="center">
-  <b>⚡ Updated: 27/09/2025</b>
 </p>
