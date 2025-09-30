@@ -51,8 +51,8 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,php" height="60"/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,figma" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,php,laravel" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,js,ts,figma" height="60"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
   <img src="https://skillicons.dev/icons?i=git,github" height="60"/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="60"/>
