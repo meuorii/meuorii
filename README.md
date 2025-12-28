@@ -1,15 +1,16 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# 🌌 Hello World, I'm Kian Fontillas  
+# 🌌 Hello World, I'm Kian Fontillas
 
 💻 **Full Stack Developer** | 🤖 **AI & ML Enthusiast**
 
-I enjoy creating **scalable applications**, solving real-world problems with **data-driven solutions**, and exploring how **AI transforms technology**.  
-My expertise spans **frontend** and **backend**, allowing me to build seamless, intelligent, and user-focused digital experiences.  
+I enjoy creating **scalable applications**, solving real-world problems with **data-driven solutions**, and exploring how **AI transforms technology**.
+My expertise spans **frontend** and **backend**, allowing me to build seamless, intelligent, and user-focused digital experiences.
 
 ---
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=meuorii&label=Profile%20views&color=6f42c1&style=flat" alt="profile views" /> 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=meuorii&label=Profile%20views&color=6f42c1&style=flat" alt="profile views" />
 </p>
 
 ## 🌐 Connect with Me
@@ -35,27 +36,22 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/meuorii">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=meuorii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc&cache_seconds=300" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meuorii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc&cache_seconds=1800" />
-  </a>
-</div>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meuorii&theme=tokyonight&hide_border=true&background=0D1117&ring=bb86fc&fire=9d4edd&currStreakLabel=bb86fc&cache_seconds=300" alt="streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meuorii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meuorii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meuorii&theme=tokyonight&hide_border=true&background=0D1117&ring=bb86fc&fire=9d4edd&currStreakLabel=bb86fc" alt="streak" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,php,laravel" height="60"/>
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,js,ts,figma" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
-  <img src="https://skillicons.dev/icons?i=git,github" height="60"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,php,laravel" height="50"/><br>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,js,ts,figma" height="50"/><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,tensorflow,pytorch" height="50"/>
 </p>
 
 ---
