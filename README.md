@@ -28,18 +28,10 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meuorii&theme=tokyonight" alt="Top Languages Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meuorii&theme=tokyonight" alt="Stats Card" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meuorii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meuorii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=bb86fc" />
 </p>
 
 <p align="center">
@@ -49,11 +41,7 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,php,laravel" height="50"/><br>
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,js,ts,figma" height="50"/><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,tensorflow,pytorch" height="50"/>
-</p>
+<table align="center"> <tr> <th align="left">🎨 Frontend</th> <td align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,js,ts,figma" height="40"/> </td> </tr> <tr> <th align="left">⚙️ Backend</th> <td align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel,firebase" height="40"/> </td> </tr> <tr> <th align="left">🗄️ Database & Tools</th> <td align="left"> <img src="https://skillicons.dev/icons?i=mongodb,git,github" height="40"/> </td> </tr> <tr> <th align="left">🤖 Machine Learning & AI</th> <td align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40"/> </td> </tr> </table>
 
 ---
 
