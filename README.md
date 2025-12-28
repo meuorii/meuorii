@@ -30,7 +30,8 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meuorii&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meuorii&theme=tokyonight" alt="Top Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meuorii&theme=tokyonight" alt="Stats Card" />
 </p>
 
 ---
