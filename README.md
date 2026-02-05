@@ -40,8 +40,27 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
 
 ---
 
-## Tech Stack
-<table align="center"> <tr> <th align="left">🎨 Frontend</th> <td align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,js,ts,figma" height="40"/> </td> </tr> <tr> <th align="left">⚙️ Backend</th> <td align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel,firebase" height="40"/> </td> </tr> <tr> <th align="left">🗄️ Database & Tools</th> <td align="left"> <img src="https://skillicons.dev/icons?i=mongodb,git,github" height="40"/> </td> </tr> <tr> <th align="left">🤖 Machine Learning & AI</th> <td align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40"/> </td> </tr> </table>
+<div align="center">
+  
+  ### 🎨 Frontend
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,js,ts,figma)](https://skillicons.dev)
+
+  <br/>
+
+  ### ⚙️ Backend
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,laravel,firebase)](https://skillicons.dev)
+
+  <br/>
+
+  ### 🗄️ Databases & Tools
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker)](https://skillicons.dev)
+
+  <br/>
+
+  ### 🤖 Machine Learning
+  [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
+
+</div>
 
 ---
 
