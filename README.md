@@ -53,7 +53,7 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
   <br/>
 
   ### 🗄️ Databases & Tools
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,docker)](https://skillicons.dev)
 
   <br/>
 
