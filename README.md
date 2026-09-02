@@ -48,7 +48,7 @@ My expertise spans **frontend** and **backend**, allowing me to build seamless, 
   <br/>
 
   ### ⚙️ Backend
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,laravel,firebase)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,flask,firebase)](https://skillicons.dev)
 
   <br/>
 
